@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Servidor de Pags Web/Servidor de Pags Web.iml" filepath="$PROJECT_DIR$/Servidor de Pags Web/Servidor de Pags Web.iml" />
+      <module fileurl="file://$PROJECT_DIR$/TP7.iml" filepath="$PROJECT_DIR$/TP7.iml" />
+    </modules>
+  </component>
+</project>
